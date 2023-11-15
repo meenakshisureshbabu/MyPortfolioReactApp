@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+
+.profile-div{
+    text-align: center;
+    align-items: center;
+}
+
+img{
+    align-self: center;
+    border: solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.education, .skillspara, .experiencepara, .contactpara{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+
